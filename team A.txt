@@ -1,0 +1,12 @@
+team A:
+1	rohan(bat)
+2	sohan(bat)
+3	sand(bat)
+4       uk(bat)
+5	ut(bat)
+6	utkarsh(c & bat)
+7	sandy(bowl)
+8	rohit(bowl)
+9	alok(bowl)
+10	bene(bowl)
+11	bennet(bowl)

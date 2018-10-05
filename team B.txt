@@ -1,0 +1,12 @@
+team B:
+1	rahul(bat)
+2	shubh(bat)
+3	shubham(bat)
+4	loka(bat)
+5	man(bat)
+6	kl(c & bat)
+7	ms(bowl)
+8	kohli(bowl)
+9	virat(bowl)
+10	padya(bowl)
+11	sharma(bowl)

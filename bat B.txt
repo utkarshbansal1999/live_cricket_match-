@@ -1,0 +1,39 @@
+team B:
+1	rahul(bat)
+0,5,6,3,out	  :  14(5)
+
+2	shubh(bat)
+6,3,5,4,4,0,4,out	  :  26(8)
+
+3	shubham(bat)
+3,0,3,6,1,0,0,3,2,1,4,2,6,1,6,3,out	  :  41(17)
+
+4	loka(bat)
+1,5,2,out	  :  8(4)
+
+5	man(bat)
+6,2,0,0,2,0,2,2,4,2,0,3,out	  :  23(13)
+
+6	kl(c & bat)
+4,out	  :  4(2)
+
+7	ms(bowl)
+1,5,6,3,4,0,3,0,5,3,4,3,1,5,0,0,6,out	  :  49(18)
+
+8	kohli(bowl)
+out	  :  0(1)
+
+9	virat(bowl)
+5,out	  :  5(2)
+
+10	padya(bowl)
+2,4,2,6,2,0,2,3,0,0,6,0,3,5,out	  :  35(15)
+
+11	sharma(bowl)
+0,2,0,0,  :  2(4)
+
+
+ total : 207
+
+
+highest score = 49
